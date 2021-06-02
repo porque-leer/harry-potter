@@ -55,6 +55,10 @@ html {
   font-size: 2.5rem;
   font-weight: 900;
 }
+.principal-titulo::selection {
+  background-color: var(--color-verde);
+  color: black;
+}
 .principal-subtitulo {
   color: var(--color-subtitulos);
   padding-top: 1.5rem;
@@ -87,10 +91,15 @@ header {
 }
 
 .libros-titulo {
-  color: var(--color-titulos);
+  color: var(--color-verde-hover);
   font-size: 1.5rem;
   text-align: center;
   padding: 1rem 0.2rem;
+}
+
+.libros-titulo::selection {
+  background-color: var(--color-verde-hover);
+  color: black;
 }
 
 input {
@@ -157,13 +166,25 @@ input:focus {
   vertical-align: top;
   padding-left: 1.5rem;
 }
+
 .libro-titulo {
   font-size: 1em;
   padding-bottom: 0.5rem;
 }
+
+.libro-titulo::selection {
+  background-color: var(--color-verde);
+  color: black;
+}
+
 .libro-informacion {
   font-size: 0.8rem;
   color: rgb(73, 73, 73);
+}
+
+.libro-informacion::selection {
+  background-color: rgb(63, 63, 63);
+  color: var(--color-titulos);
 }
 
 /*Sección videos*/
