@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Libros - Harry Potter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1 class="libros-titulo">Porque leer Harry Potter</h1>
+  </header>
+  <div class="libros">
+    <div class="video-seccion">
+      <video src="tercerLibro.mp4" controls></video>
+    </div>
+    <div class="guion-seccion">
+      <h2 class="guion-titulo">Guión</h2>
+      <p class="guion">Hola, chicos, hoy hablaremos acerca del tercer libro de la saga de Harry Potter, que se titula “Harry Potter y el Prisionero de Azkaban”. En este libro nos presentan a un peligroso criminal que se presume es el asesino de James y Lily Potter, Sirius Black. Un cómplice de Lord Voldemort que ha escapado de Azkaban, y ahora está en busca de Harry para asesinarlo. Él mientras tanto se encuentra pasando otro verano con los Dursley, quienes por lo visto se han comportado de una manera especialmente molesta con Harry, quien en esto termina inflando a la Tía Marge. Asustado por las posibles consecuencias que podría tener, como el castigo de sus tíos o la expulsión de Hogwarts, Harry escapa en la noche y es recogido por el Autobús Noctámbulo, que lo lleva hasta el Caldero Chorreante. Aquí se encuentra con Cornelius Fudge, quien es el ministro de magia, y opta por no castigarlo, ya que, debido a la reciente fuga de Sirius Black, piensa que el único sitio seguro para él es en Hogwarts. 
+Ya en Hogwarts, Harry descubre unas aterradoras criaturas llamadas “dementores”, que se alimentan del alma de sus presas y están defendiendo el castillo de Sirius Black. Por alguna razón, estas criaturas sienten una extraña atracción hacia Harry, quien, junto a su profesor Remus Lupin, aprende a defenderse de estos dementores.
+En su aventura, Harry descubre otras fascinantes criaturas, como los hipogrifos o los Grim. Además, en el pueblo de Hogsmeade, descubre la casa de los gritos, que es el edificio más embrujado de Gran Bretaña. Entonces, ¿Por qué Sirius Black está tan ansioso por encontrar a Harry?, ¿En qué manera está relacionado con el nuevo profesor de defensa contra las artes oscuras?, ¿Qué secretos se esconden tras la casa de los gritos y el asesinato de los Potter?, todo esto se resuelve en el libro.
+Les recomendamos mucho leer el libro, ya que por un lado nos introduce a uno de los personajes más interesantes de la saga, que es Sirius Black, quien esconce un secreto que cambia totalmente el rumbo del libro. También nos muestra un gran desarrollo en Harry, quien ahora es más maduro y entiende el peligro que supone la magia. Ya no es un Harry pequeño asustado por la idea de que sea un mago, ahora tenemos a un Harry de 13 años que comprende la gravedad de la situación en la que está. Pero no dejemos de lado a sus amigos, Ron y Hermione, quienes también tienen un gran protagonismo en este libo. Hablando de cosas más técnicas, de inicio a fin tiene una trama muy interesante, que nos sumerge completamente y que logra hacer que amemos la saga. Entonces, ¿qué esperas para sumergirte junto a Harry en el mundo mágico?
+
+      </p>
+
+      <h2 class="guion-titulo">Juego</h2>
+    </div>
+
+    <iframe src="https://wordwall.net/es/embed/8109bb30d544433994c94c619b7cc7db?themeId=53&templateId=49"
+      frameborder="0" allowfullscreen class="juego"></iframe>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
