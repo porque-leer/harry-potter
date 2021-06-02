@@ -211,12 +211,22 @@ video {
   padding: 2rem;
 }
 
+.guion-titulo::selection {
+  color: var(--color-titulos);
+  background-color: var(--color-verde);
+}
+
 .guion {
   font-size: 2rem;
   color: grey;
   margin-top: 2rem;
   line-height: 3rem;
   margin-bottom: 3rem;
+}
+
+.guion::selection {
+  color: var(--color-verde);
+  background-color: var(--color-subtitulos);
 }
 
 .juego {
