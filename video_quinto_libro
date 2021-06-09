@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harry potter y la Orden del Fénix</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1 class="libros-titulo">Harry potter y la Orden del Fénix</h1>
+  </header>
+  <div class="libros">
+    <div class="video-seccion">
+      <video src="tercerLibro.mp4" controls autoplay></video>
+    </div>
+    <div class="guion-seccion">
+      <h2 class="guion-titulo">Guión</h2>
+      <p class="guion"Buenos días esperamos que estén muy bien desde donde nos estén viendo hoy continuaremos narrando la historia del elegido. Esta vez hablaremos del libro 5 “harry potter y la orden del fénix” ¡comencemos!. Justo antes de que terminaran las vacaciones, harry tiene un incidente con dementores, unas criaturas fantásticas bastante aterradoras, dadas las circunstancias  tuvo que usar su varita para defenderse así rompiendo el código de los magos, posteriormente el ministerio de magia se entera y lo expulsan de hogwarts, pero lo mas importante ahora era entender el comportamiento de los dementores por lo que la orden del fenix encuentra a harry para hablar con el de lo sucedido , tiempo despues harry  su maestro albus dumbledore fueron al ministerio de magia para hablar sobre la situación escolar de Harry para que volviera a la escuela y también de las amenazas del señor oscuro.
+
+El ministerio se negaba al regreso del señor oscuro sin embargo temía por la seguridad de los estudiantes de hogwarts por lo que impusieron reglas mucho más estrictas a los jóvenes magos de como usar lo aprendido y a la escuela Pero el cambio más importante fue la llegada de Dolores Umbridge, una maestra demasiado estricta y poco comprensiva enviada por el ministerio para supervisar y dirigir la escuela. Hermione era consciente de que necesitaban defenderse por lo que le pide a Harry que armen un grupo llamado el ejército de dumbledore para que él les enseñe. 
+
+Cuando todo estaba saliendo mejor ocurre una fuga masiva de prisioneros azkaban, una prisión de alta seguridad para mortifagos en los cuales destaca belatrix, una de las más fieles secuaces del señor oscuro . por lo que harry, su amigos y  tío sirius black junto a la orden del fénix deberán evitar una tragedia mayor. Para nosotros este es de los libros mas entretenido de la saga ,por la importancia de los sucesos y la forma en la que se narra no permite que te aburras.También este libro abre el nuevo destino del mundo mágico el cual cada vez es más oscuro dejando al lector con la incertidumbre de si las cosas van a mejorar para harry o no, lo que nos deja solo una salida leer “harry potter y el misterio del principe”
+      </p>
+
+      <h2 class="guion-titulo">Juego</h2>
+    </div>
+
+    <iframe src="https://wordwall.net/es/embed/93bc8fddc57b4a50ba3c5d21a95611eb?themeId=53&templateId=49"
+      frameborder="0" allowfullscreen class="juego"></iframe>
+  </div>
+  <div class="btns">
+    <div class="prev-btn">
+      <a href="video-cuarto-libro.html">anterior</a>
+    </div>
+    <div class="next-btn">
+      <a href="video-sexto-libro.html">próximo</a>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
