@@ -97,7 +97,7 @@ header {
   padding: 1rem 0.2rem;
   cursor: url(https://cdn.custom-cursor.com/db/5047/32/arrow2857.png), pointer;
   text-decoration: none;
-  font-weigth: 900;
+  font-weight: 900;
   font-size: 2rem;
 }
 .libros-titulo::selection {
