@@ -424,6 +424,11 @@ Responsive
 @media (max-width: 900px) {
   /*Libros*/
   
+  .libros-titulo {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+  }
+  
   /*Video*/
 
   .guion-titulo {
