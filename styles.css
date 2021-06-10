@@ -102,7 +102,11 @@ header {
   transition: 0.5s;
   padding: 0.5rem;
 }
-.libros-titulo::selection,
+.libros-titulo::selection{
+  background-color: var(--color-verde-hover);
+  color: black;
+}
+
 .libros-titulo:hover{
   background-color: var(--color-verde-hover);
   color: black;
